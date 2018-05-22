@@ -37,7 +37,7 @@
 	
 	Learn: I was not sure how to do this problem but I followed the book and it somewhat made sense.
 */
-public static class ch3threeinone {
+public static class ch3tgetmin {
 
 		Integer[] array;
 		int size = 0;
